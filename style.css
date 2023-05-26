@@ -539,14 +539,9 @@ nav {
     margin-bottom: 50px;
 }
 
-@media (max-width:500px){
+@media (max-width:880px){
     .grid{
         grid-template-columns: repeat(2, 1fr);
-    }
-}
-@media (max-wiidth:880){
-    .card1{
-        height: 500px;
     }
 }
 
